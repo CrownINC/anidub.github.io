@@ -1,0 +1,1 @@
+<object type=application/x-shockwave-flash data=video.swf width=650 height=488><param name=movie value=video.swf></object>
